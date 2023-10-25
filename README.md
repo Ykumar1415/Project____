@@ -8,6 +8,12 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Shopping Chatbot
+Video Demonstration : 
+
+https://github.com/Ykumar1415/Project____/assets/97088265/4063de58-b5f7-4d67-894a-6077f8d27698
+
+
+
 ![image](https://github.com/Ykumar1415/Project____/assets/97088265/0b9c0380-4508-412f-817c-faf888769aa2)
 This Endpoint will converses with AWS Comprehend and get Data From Amazom.com search Query.
 
