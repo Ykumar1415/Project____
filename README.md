@@ -1,14 +1,20 @@
-# React + Vite
+# Shoppin Amazon Bot
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Shopping Chatbot
+![image](https://github.com/Ykumar1415/Project____/assets/97088265/0b9c0380-4508-412f-817c-faf888769aa2)
+This Endpoint will converses with AWS Comprehend and get Data From Amazom.com search Query.
 
+![image](https://github.com/Ykumar1415/Project____/assets/97088265/32fd93bf-22dd-4379-b97c-11e85bc654ee)
+This endpoint converses with gpt 3.5 finetune and let's user better determine The product they want to buy.
+
+ 
 **Welcome to the Shopping Chatbot repository!**
 
 This is a web application built with React.js for the front-end and Node.js for the backend services. The aim of this application is to provide users with a better shopping experience by allowing them to interact with a chatbot. The chatbot is powered by OpenAI GPT-3.5 turbo, fine-tuned and prompted to handle most user queries.
